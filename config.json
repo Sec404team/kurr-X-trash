@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "kurrxd", 
+	"zeksKey": "S4JtqfYj729v4dl1PIAzNqAIh3a",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 100,
+	"ownerList": ["6285706642632@s.whatsapp.net", "62857066426323@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://i.postimg.cc/XNFmqpr1/76271a67a3e6162e0d0f80b1bc1d17f4.jpg",
+	"pack": "Official Bot WhatsApp",
+	"author": "7B Bot"
+}
